@@ -1,8 +1,13 @@
-	h1 {
-		text-align: center;
-		text-shadow: 10px 10px darkblue;
-		}
-    	body{
-    		background-color:black;
-    		color:white;
-    	}
+h1 {
+	text-align: center;
+}
+body{
+    background-image: url("../images/fire_water_fist.jpg");
+	color:white;
+	background-size:cover
+}
+ul {
+    list-style-type: none;
+    margin: 0100;
+    padding: 0;
+}
