@@ -3,8 +3,7 @@ h1 {
 	font-family: 'philosopher';
 }
 body{
-    background-image: url("../images/dark_earth.jpg");
-    background-repeat: no-repeat;
+    background-color: black;
 	color:white;
 }
 ul {
